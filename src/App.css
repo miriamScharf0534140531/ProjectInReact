@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#login,.background{
+  border: 1px solid #0b6bcb;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fafcff;
+}
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center
+}
+.fix{
+  position: fixed;
+  top: 30%;
+  left: 40%;
+}
+
